@@ -4,7 +4,7 @@ Ordenados de más fácil a más difícil.
 
 ---
 
-## 1. Predicción de Demanda Aérea Mensual en Chile ✈️
+## 1. Predicción de Demanda Aérea Mensual en Chile ✈️ ✅
 **Tipo de modelo:** Regresión lineal.  
 **Dificultad:** ⭐☆☆☆☆  
 **Razón:** Datos limpios y claros, pocas variables, transformación mínima.  
