@@ -28,7 +28,7 @@ Este proyecto analiza y predice el tráfico aéreo de pasajeros utilizando técn
 - Análisis de los top 10 aeropuertos por volumen
 
 ## Dataset
-El conjunto de datos (`BD_Trafico_aereo.csv`) contiene información sobre:
+El conjunto de datos [BD_Trafico_Aereo] (https://www.jac.gob.cl/estadisticas/estadisticas-historicas/) contiene información sobre:
 - Año y mes de los vuelos
 - Aeropuertos de origen y destino
 - Número de pasajeros
@@ -99,3 +99,4 @@ El conjunto de datos (`BD_Trafico_aereo.csv`) contiene información sobre:
 
 ## Contribuciones
 Se aceptan contribuciones mediante Pull Requests. Para cambios mayores, por favor abrir un Issue primero para discutir los cambios propuestos.
+
