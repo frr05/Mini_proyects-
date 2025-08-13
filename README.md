@@ -8,7 +8,7 @@ Ordenados de más fácil a más difícil.
 **Tipo de modelo:** Regresión lineal.  
 **Dificultad:** ⭐☆☆☆☆  
 **Razón:** Datos limpios y claros, pocas variables, transformación mínima.  
-**Fuente:** [Datos Abiertos Chile - Tráfico Aéreo](https://datos.gob.cl/)
+**Fuente:** [Datos Abiertos Chile - Tráfico Aéreo](https://www.jac.gob.cl/estadisticas/estadisticas-historicas/)
 
 ---
 
